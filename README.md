@@ -49,11 +49,6 @@ cd  backend
 npm i -force
 npm run dev
 ```
-
-## How to run the code 
-### Please follow this step to run this project 
-
-
 - declare   required  variable  on .env file
 
 - Now command ( npm run dev ) for run the server
